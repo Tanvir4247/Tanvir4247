@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently gaining vast knowledge in the field of **Data Science**
 
 - 💬 Ask me about **Python, Machine Learning, Presentation**
 
