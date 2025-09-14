@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Presentation**
 
-- 📫 How to reach me **muhammad15-14364@diu.edu.bd**
+- 📫 How to reach me **tanvir.islaam.007@gmail.com**
 
 - ⚡ Fun fact **I love watching anime and making people laugh**
 
